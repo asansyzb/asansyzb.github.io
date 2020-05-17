@@ -1,0 +1,34 @@
+{
+  "components/Layout": [
+    {
+      "id": "Ji2X",
+      "name": "./node_modules/@material-ui/core/esm/Container/Container.js",
+      "file": "static/chunks/9.45bfbc54dc2e42ecb081.js",
+      "publicPath": "static/chunks/9.45bfbc54dc2e42ecb081.js"
+    },
+    {
+      "id": "NqtD",
+      "name": "./node_modules/@material-ui/core/esm/utils/capitalize.js",
+      "file": "static/chunks/9.45bfbc54dc2e42ecb081.js",
+      "publicPath": "static/chunks/9.45bfbc54dc2e42ecb081.js"
+    },
+    {
+      "id": "R/WZ",
+      "name": "./node_modules/@material-ui/core/esm/styles/makeStyles.js",
+      "file": "static/chunks/9.45bfbc54dc2e42ecb081.js",
+      "publicPath": "static/chunks/9.45bfbc54dc2e42ecb081.js"
+    },
+    {
+      "id": "apO0",
+      "name": "./components/Layout.tsx",
+      "file": "static/chunks/9.45bfbc54dc2e42ecb081.js",
+      "publicPath": "static/chunks/9.45bfbc54dc2e42ecb081.js"
+    },
+    {
+      "id": "iuhU",
+      "name": "./node_modules/clsx/dist/clsx.m.js",
+      "file": "static/chunks/9.45bfbc54dc2e42ecb081.js",
+      "publicPath": "static/chunks/9.45bfbc54dc2e42ecb081.js"
+    }
+  ]
+}
